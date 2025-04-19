@@ -68,7 +68,7 @@
             tapping-term-ms = <200>;
             quick-tap-ms = <150>;
             #binding-cells = <2>;
-            bindings = <&kp>, <&kp>;x
+            bindings = <&kp>, <&kp>;
             hold-trigger-key-positions = <6 7 8 9 10 18 19 20 21 22 30 31 32 33 34 39 40 41>;
             require-prior-idle-ms = <100>;
             hold-trigger-on-release;
