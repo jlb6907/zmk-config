@@ -131,7 +131,7 @@
             bindings = <
 &none   &kp Q        &kp W        &kp E         &kp R           &kp T                &kp Y                 &kp U           &kp I            &kp O        &kp P                  &none
 &none   &hml LGUI A  &hml RALT S  &hml LCTRL D  &f_hml LSHFT F  &kp G                &kp H                 &f_hmr RSHFT J  &hmr RCTRL K     &hmr RALT L  &hmr RGUI SEMICOLON    &none
-&none   &kp Z        &kp X        &hml LALT C   &hrl 4 V        &kp B                &kp N                 &kp M           &hmr LALT COMMA  &kp DOT      &kp FSLH               &none
+&none   &kp Z        &kp X        &hml LALT C   &hml 4 V        &kp B                &kp N                 &kp M           &hmr LALT COMMA  &kp DOT      &kp FSLH               &none
                                   &none      &lt 1 SPACE     &mt RIGHT_ALT TAB    &mt LEFT_SHIFT ENTER  &lt 2 BSPC  &none
             >;
         };
